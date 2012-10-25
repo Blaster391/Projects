@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SmoothMovement", "SmoothMovement\SmoothMovement.vbproj", "{95381AEA-A9E8-4F92-83F7-83ADC81CEAFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95381AEA-A9E8-4F92-83F7-83ADC81CEAFA}.Debug|x86.ActiveCfg = Debug|x86
+		{95381AEA-A9E8-4F92-83F7-83ADC81CEAFA}.Debug|x86.Build.0 = Debug|x86
+		{95381AEA-A9E8-4F92-83F7-83ADC81CEAFA}.Release|x86.ActiveCfg = Release|x86
+		{95381AEA-A9E8-4F92-83F7-83ADC81CEAFA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
